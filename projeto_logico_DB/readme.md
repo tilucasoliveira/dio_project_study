@@ -182,8 +182,11 @@ JOIN produto p ON p.id_produto = f.id_fornecedor;
 2. Use `queries.sql` para realizar consultas.
 3. Utilize um banco de dados MySQL ou PostgreSQL para rodar as queries.
 
-📌 **Dica:** Utilize ferramentas como MySQL Workbench, DBeaver ou pgAdmin para melhor visualização dos dados.
+🧩 **Dica:** Utilize ferramentas como MySQL Workbench, DBeaver ou pgAdmin para melhor visualização dos dados.
 
+## 🚀 Tecnologias Utilizadas 
+- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 Projeto criado para fins educacionais, auxiliando no aprendizado de modelagem de bancos de dados relacionais. 📚
-
+📌 **Criado por:** [Lucas Haigert Oliveira]
