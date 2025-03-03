@@ -26,7 +26,7 @@ Este projeto tem como objetivo criar um **dashboard de vendas** no **Excel**, fo
 ## 🔧 Como Reproduzir o Projeto?
 1. **Baixe o arquivo** [`Projeto_.xlsx`](https://github.com/tilucasoliveira/dio_project_study/blob/main/Projeto_.xlsx) ou clone o repositório:
    ```sh
-   git clone https://github.com/tilucasoliveira/dio_project_study.git
+   git clone https://github.com/tilucasoliveira/dio_project_study/tree/main/dashboard-vendas.git
    ```
 2. **Abra o arquivo no Microsoft Excel**.
 3. **Analise os dados** e explore as visualizações disponíveis.
